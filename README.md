@@ -1,5 +1,12 @@
 # Intelligent Vacuum Cleaner Agent (3x3 Grid Environment)
 
+## Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
+![Random](https://img.shields.io/badge/Python-Random%20Library-lightgrey?style=flat-square&logo=python)
+![Time](https://img.shields.io/badge/Python-Time%20Library-lightgrey?style=flat-square&logo=python)
+
+
 ## Overview
 This repository contains the implementation of an **Intelligent Agent simulation** based on the classic **vacuum cleaner robot problem**. The agent is designed to **perceive its environment through sensors** and **act upon it using actuators** to ensure all areas are clean.
 
@@ -38,9 +45,3 @@ The project demonstrates the fundamental **AI Perception–Action cycle** within
   - If the room is **clean**, it moves to the next target room.
 
 ---
-
-## Technologies Used
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
-![Random](https://img.shields.io/badge/Python-Random%20Library-lightgrey?style=flat-square&logo=python)
-![Time](https://img.shields.io/badge/Python-Time%20Library-lightgrey?style=flat-square&logo=python)
